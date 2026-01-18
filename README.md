@@ -3,7 +3,6 @@
 
 ---
 
-## 🇬🇧 English
 
 ### 📖 Project Overview
 
